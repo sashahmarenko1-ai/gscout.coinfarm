@@ -1,1 +1,0 @@
-# gscout.coinfarm
